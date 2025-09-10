@@ -1,3 +1,5 @@
+Link to youtube video containing a video of the presentation - https://www.youtube.com/watch?v=Hk_q98Qo5L0
+
 ## Here are the links that are seen in the presentation and the youtube video containing social media, advertisement, email development and web development samples. ##
 
 
